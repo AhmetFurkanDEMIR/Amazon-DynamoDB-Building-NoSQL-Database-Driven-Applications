@@ -11,7 +11,9 @@ Many of the world's fastest growing businesses such as Lyft, Airbnb, and Redfin 
 Hundreds of thousands of AWS customers have chosen DynamoDB as their key-value and document database for mobile, web, gaming, ad tech, IoT, and other applications that need low-latency data access at any scale. Create a new table for your application and let DynamoDB handle the rest.
 
 More on DynamoDB : [Click](https://aws.amazon.com/dynamodb/)
+
 DynamoDB documentation (Developer Guide) : [Click](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
+
 DynamoDB documentation (API Reference) : [Click](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/Welcome.html)
 
 * **Course content**
