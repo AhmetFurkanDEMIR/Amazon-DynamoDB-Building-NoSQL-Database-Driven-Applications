@@ -1,0 +1,16 @@
+[{
+	"user_name_str": "davey65",
+	"first_name_str": "dave",
+	"email_address_str": "dave@dragoncardgame001.com",
+	"temp_password_str": "apple"
+},{
+	"user_name_str": "jon77",
+	"first_name_str": "jon",
+	"email_address_str": "jon@dragoncardgame001.com",
+	"temp_password_str": "banana"
+},{
+	"user_name_str": "evan33",
+	"first_name_str": "evan",
+	"email_address_str": "evan@dragoncardgame001.com",
+	"temp_password_str": "orange"
+}]

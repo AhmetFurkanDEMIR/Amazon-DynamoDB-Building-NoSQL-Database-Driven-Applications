@@ -1,0 +1,231 @@
+[{
+    "damage_int": 9,
+    "description_str": "Belonging to no tribe, Magnum is a wanderer who finds his own path and can be your best friend, or worst enemy.",
+    "dragon_name_str": "Magnum",
+    "family_str": "black",
+    "location_city_str": "conway",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "prince st",
+    "location_state_str": "arkansas",
+    "protection_int": 8 
+},{
+    "damage_int": 5,
+    "description_str": "Yuxo is a Dragon of the ocean. She breathes underwater and protects oceania.",
+    "dragon_name_str": "Yuxo",
+    "family_str": "blue",
+    "location_city_str": "chicago",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "w fullerton ave",
+    "location_state_str": "illinois",
+    "protection_int": 3 
+},{
+    "damage_int": 2,
+    "description_str": "Castral lives in the mighty mountain. He has built an underground of tunnels from which he terrorizes.",
+    "dragon_name_str": "Castral",
+    "family_str": "green",
+    "location_city_str": "flint",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "davison rd",
+    "location_state_str": "michigan",
+    "protection_int": 6 
+},{
+    "damage_int": 7,
+    "description_str": "Languatha is a noble fire dragon and direct heir to the fire tribe's throne. She is cunning and wise, but has a venomous bite.",
+    "dragon_name_str": "Languatha",
+    "family_str": "red",
+    "location_city_str": "portland",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "rowe ave",
+    "location_state_str": "maine",
+    "protection_int": 2 
+},{
+    "damage_int": 4,
+    "description_str": "Mino is a dwarf dragon. He's small but fast and can fly undetected by his enemies.",
+    "dragon_name_str": "Mino",
+    "family_str": "black",
+    "location_city_str": "gorham",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "school st",
+    "location_state_str": "maine",
+    "protection_int": 8 
+},{
+    "damage_int": 9,
+    "description_str": "Sukola is protector of the skies. She stands as sentinel to the sky world and is full of valor and strength.",
+    "dragon_name_str": "Sukola",
+    "family_str": "blue",
+    "location_city_str": "las vegas",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "timber rose dr",
+    "location_state_str": "nevada",
+    "protection_int": 7 
+},{
+    "damage_int": 3,
+    "description_str": "Jerichombur is a dragon of mischief. His earth crushing roar can be heard for miles.",
+    "dragon_name_str": "Jerichombur",
+    "family_str": "green",
+    "location_city_str": "las vegas",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "red twig dr",
+    "location_state_str": "nevada",
+    "protection_int": 5 
+},{
+    "damage_int": 4,
+    "description_str": "Omnitrek is a fire dragon that uses his fire breathe to hypnotize his opponents. He is from the fire tribe.",
+    "dragon_name_str": "Omnitrek",
+    "family_str": "red",
+    "location_city_str": "las vegas",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "eagle hills dr",
+    "location_state_str": "nevada",
+    "protection_int": 6 
+},{
+    "damage_int": 2,
+    "description_str": "Lucian is a trickster. His deadly smoke attack confuses and berserks his enemies into a panicked frenzy.",
+    "dragon_name_str": "Lucian",
+    "family_str": "black",
+    "location_city_str": "chambless",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "balfor rd",
+    "location_state_str": "california",
+    "protection_int": 4 
+},{
+    "damage_int": 7,
+    "description_str": "Sprinkles is a celebrity dragon. He travels as a bard telling tales and songs of heroic feats.",
+    "dragon_name_str": "Sprinkles",
+    "family_str": "blue",
+    "location_city_str": "amboy",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "devers ave",
+    "location_state_str": "california",
+    "protection_int": 9 
+},{
+    "damage_int": 1,
+    "description_str": "Prythus is a warlock dragon. He casts spells and can summon creatures to help in fight in battle.",
+    "dragon_name_str": "Prythus",
+    "family_str": "green",
+    "location_city_str": "ankeny",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "ne eaglewood dr",
+    "location_state_str": "iowa",
+    "protection_int": 5 
+},{
+    "damage_int": 9,
+    "description_str": "Crimson is a soldier in the dragon fire army. He breathes fire lightning for a multiple attack.",
+    "dragon_name_str": "Crimson",
+    "family_str": "red",
+    "location_city_str": "las vegas",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "edna ave",
+    "location_state_str": "nevada",
+    "protection_int": 3 
+},{
+    "damage_int": 4,
+    "description_str": "Nightingale uses her song to lull and seduce her opponents. She is deadly.",
+    "dragon_name_str": "Nightingale",
+    "family_str": "black",
+    "location_city_str": "eagan",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "short line",
+    "location_state_str": "minnesota",
+    "protection_int": 6 
+},{
+    "damage_int": 3,
+    "description_str": "Restula is one of the rarest dragons. She has only been seen once every millennia but is said to bless the planet with her tears.",
+    "dragon_name_str": "Restula",
+    "family_str": "blue",
+    "location_city_str": "las vegas",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "gaye ln",
+    "location_state_str": "nevada",
+    "protection_int": 4 
+},{
+    "damage_int": 8,
+    "description_str": "Amaron is a peacekeeper dragon and defender of all living things. He is from the mythical forests of Jeaunord that are deeply rooted with magic.",
+    "dragon_name_str": "Amaron",
+    "family_str": "green",
+    "location_city_str": "waterville",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "yeaton st",
+    "location_state_str": "maine",
+    "protection_int": 8 
+},{
+    "damage_int": 7,
+    "description_str": "Ruby has a skin and coat that's as hard as gems. This gives her extra defense against her enemies.",
+    "dragon_name_str": "Ruby",
+    "family_str": "red",
+    "location_city_str": "homer",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "lakeside dr",
+    "location_state_str": "alaska",
+    "protection_int": 9 
+},{
+    "damage_int": 4,
+    "description_str": "Tornado has a fierce wind attack that traps his opponents in cyclones. His wings are larger than most dragons.",
+    "dragon_name_str": "Tornado",
+    "family_str": "black",
+    "location_city_str": "las vegas",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "sun city blvd",
+    "location_state_str": "nevada",
+    "protection_int": 3 
+},{
+    "damage_int": 8,
+    "description_str": "Galadi is an ancient and rare dragon from the original dragon fathers. He lives in the sky kingdom and serves on the grand counsel.",
+    "dragon_name_str": "Galadi",
+    "family_str": "blue",
+    "location_city_str": "page",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "morgan rd",
+    "location_state_str": "arizona",
+    "protection_int": 6 
+},{
+    "damage_int": 6,
+    "description_str": "Warcumer is part of the earth tribe and has a deadly ground attack. Wide and stout, the dragon fights best on the ground.",
+    "dragon_name_str": "Warcumer",
+    "family_str": "green",
+    "location_city_str": "las vegas",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "magic flower ave",
+    "location_state_str": "nevada",
+    "protection_int": 1 
+},{
+    "damage_int": 4,
+    "description_str": "Norslo breathes lava instead of fire. He creates magna flows and traps his enemies.",
+    "dragon_name_str": "Norslo",
+    "family_str": "red",
+    "location_city_str": "encino",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "margate st",
+    "location_state_str": "california",
+    "protection_int": 7 
+},{
+    "damage_int": 9,
+    "description_str": "Blackhole is dragon demon. He can breathe a black hole that sucks his enemies into the void of everlasting darkness.",
+    "dragon_name_str": "Blackhole",
+    "family_str": "black",
+    "location_city_str": "north hills",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "nordhoff st",
+    "location_state_str": "california",
+    "protection_int": 9 
+},{
+    "damage_int": 7,
+    "description_str": "Treklor is a Dragon God. He is the mightiest of the grand council of dragons.",
+    "dragon_name_str": "Treklor",
+    "family_str": "blue",
+    "location_city_str": "lewisville",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "rangeland rd",
+    "location_state_str": "kentucky",
+    "protection_int": 2 
+},{
+    "damage_int": 4,
+    "description_str": "Havarth was born from the center of his planet, Grindru. The earth and mountains obey his call.",
+    "dragon_name_str": "Havarth",
+    "family_str": "green",
+    "location_city_str": "las vegas",
+    "location_country_str": "usa",
+    "location_neighborhood_str": "la vid ct",
+    "location_state_str": "nevada",
+    "protection_int": 6 
+}]

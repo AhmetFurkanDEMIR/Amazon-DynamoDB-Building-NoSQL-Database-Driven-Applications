@@ -1,0 +1,25 @@
+[{
+	"breath_attack_str": "acid",
+	"damage_modifier_int": -2,
+	"description_str": "Better defense",
+	"family_str": "green",
+	"protection_modifier_int": 2
+},{
+	"breath_attack_str": "fire",
+	"damage_modifier_int": 2,
+	"description_str": "Attacks faster",
+	"family_str": "red",
+	"protection_modifier_int": -2
+},{
+	"breath_attack_str": "water",
+	"damage_modifier_int": 1,
+	"description_str": "Happy in water",
+	"family_str": "blue",
+	"protection_modifier_int": -1
+},{
+	"breath_attack_str": "acid",
+	"damage_modifier_int": 0,
+	"description_str": "Prefers to bite",
+	"family_str": "black",
+	"protection_modifier_int": 0
+}]
